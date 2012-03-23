@@ -1,0 +1,3 @@
+This is the front-end for a GPS tracker called instamapper (instamapper.com) that tracks my phone as I'm running.
+
+The front-end was written specifically for use with the Seattle Marathon in 2011, and utilizes the Google Map API to load a map centered on the Marathon course in downtown Seattle, and draws the course on the map using GPS data.  The course then plots the latest coordinate from my cell phone, which updates every 10 seconds.
